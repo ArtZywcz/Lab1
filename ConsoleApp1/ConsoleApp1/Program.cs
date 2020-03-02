@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
 
-namespace ConsoleApp1
+namespace Lab1
 {
     class Program
     {
